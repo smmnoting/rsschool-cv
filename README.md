@@ -1,1 +1,1 @@
-https://github.com/smmnoting/rsschool-cv/blob/gh-pages/cv.md
+https://smmnoting.github.io/rsschool-cv/cv
